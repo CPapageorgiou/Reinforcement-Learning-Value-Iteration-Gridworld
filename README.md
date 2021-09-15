@@ -13,11 +13,11 @@
 <p>In the evironment with two pieces of gold, the arrays returned specify the expected return and an optimal policy at the corresponding grid sqaure before any pieces of gold are collected or a bomb is activated.
 </p>
 
-### Grid World Environment with one piece of gold.
+#### Gridworld Environment with one piece of gold.
 
 <img src=Images\one_gold_env.png>
 
-### Grid World Environment with two pieces of gold.
+#### Gridworld Environment with two pieces of gold.
 
 <img src=Images\two_gold_env.png>
 
