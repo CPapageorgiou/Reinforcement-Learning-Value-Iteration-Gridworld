@@ -15,12 +15,12 @@
 
 ### Grid World Environment with one piece of gold.
 
- ![](one_gold_env.png)
+ ![](Images\one_gold_env.png)
 
 
 ### Grid World Environment with two pieces of gold.
 
- ![](two_gold_env.png)
+ ![](Images\two_gold_env.png)
 
 ### Rules
  <strong> Actions available:</strong> The agent has four possible actions in each grid square. These are west, north, south, and east. If the direction of movement is blocked by a wall the agent remains in the same grid square.
@@ -37,7 +37,7 @@ Note that, in order to collect the gold, the agent needs to transition into the 
  ### Value Iteration pseudocode
  Reproduced from the textbook (Reinforcement Learning, Sutton & Barto, 2018, pp. 83).
 
-<img src=value_iteration_pseudocode.png height=200>
+<img src=Images\value_iteration_pseudocode.png height=200>
 
 The set S contains all non-terminal states, whereas S<sup>+</sup> is the set of all states (terminal and non-terminal). The symbol r represents the immediate reward on transition from state s to the next state s' via action a.
 
