@@ -15,12 +15,11 @@
 
 ### Grid World Environment with one piece of gold.
 
- ![](Images\one_gold_env.png)
-
+<img src=Images\one_gold_env.png>
 
 ### Grid World Environment with two pieces of gold.
 
- ![](Images\two_gold_env.png)
+<img src=Images\two_gold_env.png>
 
 ### Rules
  <strong> Actions available:</strong> The agent has four possible actions in each grid square. These are west, north, south, and east. If the direction of movement is blocked by a wall the agent remains in the same grid square.
